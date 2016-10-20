@@ -21,7 +21,7 @@
   data: [
         {
    type: "scatter",
-   color: "#1a4175",
+   color: "#1E64C8",
    dataPoints: [
 { x:  2.9, y: 10.57 },
 { x:  12.93, y: 15.29 },
@@ -226,7 +226,7 @@
      },
   {
    type: "scatter",
-   color: "#FBBA00",
+   color: "#FFD200",
    dataPoints: [
 
 
