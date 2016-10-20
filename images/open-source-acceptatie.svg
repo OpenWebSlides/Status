@@ -7,20 +7,20 @@
 			<path fill="#1D1D1B" d="M583.23,249.12v105.16H414.96V249.12H583.23 M584.23,248.12h-1H414.96h-1v1v105.16v1h1h168.27h1v-1
 				V249.12V248.12L584.23,248.12z"/>
 		</g>
-		<rect x="446.79" y="259.35" fill="#FBBA00" width="136.44" height="9.09"/>
-		<rect x="414.96" y="259.35" fill="#1A4175" width="16.2" height="9.09"/>
+		<rect x="446.79" y="259.35" fill="#FFD200" width="136.44" height="9.09"/>
+		<rect x="414.96" y="259.35" fill="#1E64C8" width="16.2" height="9.09"/>
 		<g>
-			<rect x="434.2" y="267.61" fill="#1A4175" width="10.35" height="0.44"/>
-			<rect x="434.2" y="262.55" fill="#1A4175" width="10.35" height="0.39"/>
-			<rect x="432.28" y="269.11" fill="#1A4175" width="14.22" height="0.7"/>
-			<rect x="436.59" y="270.85" fill="#1A4175" width="5.59" height="0.66"/>
-			<polygon fill="#1A4175" points="439.39,260.36 434.73,262.19 444.02,262.19 			"/>
-			<rect x="435.4" y="263.42" fill="#1A4175" width="0.64" height="3.81"/>
-			<rect x="436.87" y="263.42" fill="#1A4175" width="0.64" height="3.81"/>
-			<rect x="438.33" y="263.42" fill="#1A4175" width="0.64" height="3.81"/>
-			<rect x="439.79" y="263.42" fill="#1A4175" width="0.64" height="3.81"/>
-			<rect x="441.25" y="263.42" fill="#1A4175" width="0.64" height="3.81"/>
-			<rect x="442.71" y="263.42" fill="#1A4175" width="0.64" height="3.81"/>
+			<rect x="434.2" y="267.61" fill="#1E64C8" width="10.35" height="0.44"/>
+			<rect x="434.2" y="262.55" fill="#1E64C8" width="10.35" height="0.39"/>
+			<rect x="432.28" y="269.11" fill="#1E64C8" width="14.22" height="0.7"/>
+			<rect x="436.59" y="270.85" fill="#1E64C8" width="5.59" height="0.66"/>
+			<polygon fill="#1E64C8" points="439.39,260.36 434.73,262.19 444.02,262.19 			"/>
+			<rect x="435.4" y="263.42" fill="#1E64C8" width="0.64" height="3.81"/>
+			<rect x="436.87" y="263.42" fill="#1E64C8" width="0.64" height="3.81"/>
+			<rect x="438.33" y="263.42" fill="#1E64C8" width="0.64" height="3.81"/>
+			<rect x="439.79" y="263.42" fill="#1E64C8" width="0.64" height="3.81"/>
+			<rect x="441.25" y="263.42" fill="#1E64C8" width="0.64" height="3.81"/>
+			<rect x="442.71" y="263.42" fill="#1E64C8" width="0.64" height="3.81"/>
 		</g>
     <rect x="423.61" y="296.93" fill="#ECECEC" width="23.72" height="7.01"/>
     <rect x="453.35" y="296.93" fill="#ECECEC" width="49.41" height="7.01"/>

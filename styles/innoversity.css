@@ -28,26 +28,28 @@ li li {
 
 p.titlePersons {
   margin-bottom: 0.5em;
+  line-height: 24px !important;
 }
 
-
 .title.slide .logo {
-  float: right;
-  margin: 4em 15px .5em;
+  position: absolute;
+  top: 69px;
+  left: 731px;
+  height: 67px;
 }
 
 .title.slide h2 {
   clear: both;
   line-height: 1;
   font-size: 3.1em;
-  margin: 0 0 .2em -.1em;
+  margin: 210px 0 0;
 }
 
 .title.slide h3 {
   font-size: 1.7em;
   line-height: 1.2;
   letter-spacing: .2px;
-  margin: .2em 0 .5em;
+  margin: 0 0 40px;
   font-weight: normal;
 }
 
@@ -56,13 +58,13 @@ p.titlePersons {
 }
 
 a.license {
-  float: right;
-  margin-right: 60px;
-  border-bottom: 0;
+  position: absolute;
+  top: 544px;
+  right: 109px;
 }
 
 a.license img {
-  height: 1em;
+  height: 32px;
 }
 
 .TODO {
@@ -102,8 +104,8 @@ a.license img {
   border-radius: 50%;
   height: 4em;
   width: 4em;
-  background: #FBBA00;
-  border: 6px solid #FBBA00;
+  background: #FFD200;
+  border: 6px solid #FFD200;
   position: absolute;
 }
 
@@ -153,13 +155,13 @@ ins {
   padding:15px;
   margin:1em 0 3em;
   color:#000;
-  background:rgba(251, 186, 0, .9);
+  background:#FFD200;
   -webkit-border-radius:10px;
   -moz-border-radius:10px;
   border-radius:10px;
   width: 510px;
   line-height: 1.2;
-  top: 375px;
+  top: 305px;
   left: 60px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
 
@@ -177,7 +179,7 @@ ins {
   content:"";
   position:absolute;
   border-style:solid;
-  border-color:#FBBA00 transparent;
+  border-color:#FFD200 transparent;
   display:block;
   width:0;
   top:-14px;
@@ -230,7 +232,7 @@ p.garcon {
 }
 
 section {
-  background: #FBBA00;
+  background: #FFD200;
   width: 48%;
   height: 46%;
   margin: 0 2% 2% 0;
@@ -255,7 +257,7 @@ section {
 }
 
 section:nth-child(4n+2), section:nth-child(4n+3) {
-  background: #1A4175;
+  background: #1E64C8;
   color: white;
 }
 
